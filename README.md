@@ -1,5 +1,8 @@
 # Сниппет
 
+**▶ Live demo:** https://demo-pastebin.onrender.com (free-инстанс Render: первый запрос будит сервис ~30–60 сек)
+
+
 Клон Pastebin/Gist: обмен фрагментами кода. Node 24, ESM, без сборки. SQLite (better-sqlite3), файл данных `data/app.db`.
 
 ## Запуск
